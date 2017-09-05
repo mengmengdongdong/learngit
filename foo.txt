@@ -1,1 +1,2 @@
 this is my first git code.
+git is a distribute version system.
